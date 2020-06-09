@@ -6,7 +6,7 @@ ii) Programming Language = Python
 
 A simple task to develop some graphs for the arbitrary voltage values.
 
-Python Libraries =  Numpy
+Python Libraries =  Numpy, matplotlib
  
 ## How to run
 Just install Jupyter notebook and copy paste the code there. The code is running fine for me. 
